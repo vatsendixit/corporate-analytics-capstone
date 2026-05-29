@@ -1,2 +1,2 @@
 # corporate-analytics-capstone
-Built automated financial optimization and sensitivity models using Advanced Excel (VBA, arrays) to execute deep-dive variance and NPV modeling ($1.1M framework), delivering scannable KPI benchmarking dashboards to senior management.
+Co-authored a comprehensive 55-page operational and financial market entry framework to scale a high-tech consumer product subscription line. Formulated multi-variable capital budgeting models, executed advanced linear project management path-crashing, and engineered localized supply chain optimization matrices using quantitative operations data inside Team2_SU-25-F-Excel.xlsx
